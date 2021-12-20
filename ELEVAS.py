@@ -8,8 +8,8 @@ pygame.mixer.init()
 
 #Music
 
-pygame.mixer.music.load('Crepuscular Rays.wav')
-pygame.mixer.music.play(-1)
+#pygame.mixer.music.load('Crepuscular Rays.wav')
+#pygame.mixer.music.play(-1)
 
 #Veriables
 
